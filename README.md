@@ -10,7 +10,7 @@ Tech Stack:</p2>
 
 <p3>Languages: C++, Java, Python, JavaScript
 
-Backend: Node.js, Express, Spring Boot (if you learn it)
+Backend: Node.js, Express, Spring Boot
 
 Databases: MySQL, PostgreSQL</p3>
 
