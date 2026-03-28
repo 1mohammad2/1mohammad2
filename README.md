@@ -14,7 +14,7 @@ Backend: Node.js, Express, Spring Boot
 
 Databases: MySQL, PostgreSQL</p3>
 
-<p2>Tools: Git, Docker (learn it), REST APIs
+<p2>Tools: Git, Docker, REST APIs
 
 Methodologies: Agile, OOP, Clean Architecture
 
@@ -24,7 +24,7 @@ Featured Projects:</p2>
 
 CPU Simulator (C)
 
-Smart Appointment Management System (Advanced Web App – coming soon)
+Smart Appointment Management System
 
 Cloud Cost Monitoring Platform (coming soon)</p4>
 
